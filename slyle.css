@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    background-image: url(https://azteca.com.ua/wp-content/uploads/2020/03/futbolnoe-pole.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body *{
+    opacity: 0.8;
+    font-size: 40px;
+  }
+  input{
+    text-align: center;
+  }
